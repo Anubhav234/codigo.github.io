@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Resturant website",
+        "price": 1099,
+        "image": { "fields": { "file": { "url": "./images/product-11.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Portfolio Website",
+        
+        
+        "price": 1299,
+        "image": { "fields": { "file": { "url": "./images/product-12.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Space Hunter",
+        "price": 1299,
+        "image": { "fields": { "file": { "url": "./images/product-13.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Dance website",
+        "price": 2299,
+        "image": { "fields": { "file": { "url": "./images/product-14.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Chat application",
+        "price": 2899,
+        "image": { "fields": { "file": { "url": "./images/product-15.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Decision Review System",
+        "price": 3299,
+        "image": { "fields": { "file": { "url": "./images/product-16.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Voice Assistant",
+        "price": 1599,
+        "image": { "fields": { "file": { "url": "./images/product-17.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Crawler",
+        "price": 1399,
+        "image": { "fields": { "file": { "url": "./images/product-18.webp" } } }
+      }
+    }
+  ]
+}
